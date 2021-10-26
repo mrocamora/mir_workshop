@@ -13,9 +13,9 @@ The workshop is designed for students, musicians, engineers, researchers, and da
 #### The notebooks
 
 
-The notebook are intended for addressing some MIR tasks. The fundamentals of the techniques are discussed during the workshop lectures. Please refer to the [Fundamentals of Music Processing (FMP)](https://www.audiolabs-erlangen.de/fau/professor/mueller/bookFMP) book for a great introduction to some essential topics on MIR. 
+The notebook are intended for addressing some traditional MIR tasks. The fundamentals of the techniques are discussed during the workshop lectures. Please refer to the [Fundamentals of Music Processing (FMP)](https://www.audiolabs-erlangen.de/fau/professor/mueller/bookFMP) book for a great introduction to some essential topics in MIR. 
 
-These notebooks are based on the [FMP notebooks](https://www.audiolabs-erlangen.de/resources/MIR/FMP) that are an extension of the ook.
+These notebooks are based on the [FMP notebooks](https://www.audiolabs-erlangen.de/resources/MIR/FMP) that are an extension of the book.
 
 
 
